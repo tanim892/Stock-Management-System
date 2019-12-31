@@ -1,0 +1,4 @@
+﻿#container{ width: 960px;margin: 0 auto;background-color: aliceblue}
+
+div.inner-container{ horiz-align: center; overflow: hidden;
+}

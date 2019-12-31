@@ -1,0 +1,9 @@
+﻿
+
+#container{ width: 960px; background-color: aliceblue;margin: 0 auto;min-height: 1000px}
+
+/*-----------------navigation Style---------------*/
+.nav ul {text-align: center; font-size: 20px;}
+.nav ul li{display: inline-block; padding: 20px; list-style: none;}
+
+/*------------------------------------------------*/
